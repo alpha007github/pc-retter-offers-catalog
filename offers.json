@@ -83,15 +83,22 @@
         "attributes": {
           "datenvolumen": "unlimited"
         }
+      },
+      {
+        "offer_id": "offer_007",
+        "active": true,
+        "provider": "Vodavon",
+        "product_type": "mobilfunk",
+        "name": "Vodafone GigaMobil Young XS",
+        "short_description": "Allnet Flat",
+        "price_amount": 14.99,
+        "price_period": "month",
+        "notes": "Ab dem 25. Monat 19.99",
+        "attributes": {
+          "datenvolumen": "20 GB"
+        }
       }
     ]
   },
-  "skipped_rows": [
-    {
-      "rowIndex": 8,
-      "offer_id": "offer_007",
-      "reason": "inactive",
-      "missingRequiredValues": []
-    }
-  ]
+  "skipped_rows": []
 }
