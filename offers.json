@@ -48,6 +48,12 @@
       "offer_id": "offer_005",
       "reason": "inactive",
       "missingRequiredValues": []
+    },
+    {
+      "rowIndex": 7,
+      "offer_id": null,
+      "reason": "inactive",
+      "missingRequiredValues": []
     }
   ]
 }
