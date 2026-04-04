@@ -9,11 +9,11 @@
         "product_type": "mobilfunk",
         "name": "Vodafone GigaMobil XS",
         "short_description": "Allnet Flat",
-        "price_amount": 29.99,
+        "price_amount": 22.49,
         "price_period": "month",
-        "notes": null,
+        "notes": "Ab dem 25. Monat 29.99",
         "attributes": {
-          "datenvolumen": "35 GB"
+          "datenvolumen": "25 GB"
         }
       },
       {
