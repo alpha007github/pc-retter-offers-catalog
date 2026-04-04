@@ -33,19 +33,19 @@
   "skipped_rows": [
     {
       "rowIndex": 4,
-      "offer_id": "offer_002",
+      "offer_id": "offer_003",
       "reason": "inactive",
       "missingRequiredValues": []
     },
     {
       "rowIndex": 5,
-      "offer_id": "offer_002",
+      "offer_id": "offer_004",
       "reason": "inactive",
       "missingRequiredValues": []
     },
     {
       "rowIndex": 6,
-      "offer_id": "offer_002",
+      "offer_id": "offer_005",
       "reason": "inactive",
       "missingRequiredValues": []
     }
