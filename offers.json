@@ -31,7 +31,7 @@
       {
         "offer_id": "offer_003",
         "active": true,
-        "provider": "Vodavonw",
+        "provider": "Vodavon",
         "product_type": "mobilfunk",
         "name": "Vodafone GigaMobil S",
         "short_description": "Allnet Flat",
@@ -45,7 +45,7 @@
       {
         "offer_id": "offer_004",
         "active": true,
-        "provider": "Vodavona",
+        "provider": "Vodavon",
         "product_type": "mobilfunk",
         "name": "Vodafone GigaMobil M",
         "short_description": "Allnet Flat",
@@ -59,7 +59,7 @@
       {
         "offer_id": "offer_005",
         "active": true,
-        "provider": "Vodavone",
+        "provider": "Vodavon",
         "product_type": "mobilfunk",
         "name": "Vodafone GigaMobil L",
         "short_description": "Allnet Flat",
@@ -73,7 +73,7 @@
       {
         "offer_id": "offer_006",
         "active": true,
-        "provider": "Vodavone",
+        "provider": "Vodavon",
         "product_type": "mobilfunk",
         "name": "Vodafone GigaMobil XL",
         "short_description": "Allnet Flat",
