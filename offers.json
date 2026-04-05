@@ -27,64 +27,33 @@
         "price_period": "unknown",
         "notes": null,
         "attributes": {}
-      },
-      {
-        "offer_id": "offer_003",
-        "active": true,
-        "provider": "Vodavon",
-        "product_type": "mobilfunk",
-        "name": "Vodafone GigaMobil S",
-        "short_description": "Allnet Flat",
-        "price_amount": 29.99,
-        "price_period": "month",
-        "notes": "Ab dem 25. Monat 39.99",
-        "attributes": {
-          "datenvolumen": "35 GB"
-        }
-      },
-      {
-        "offer_id": "offer_004",
-        "active": true,
-        "provider": "Vodavon",
-        "product_type": "mobilfunk",
-        "name": "Vodafone GigaMobil M",
-        "short_description": "Allnet Flat",
-        "price_amount": 37.49,
-        "price_period": "month",
-        "notes": "Ab dem 25. Monat 49.99",
-        "attributes": {
-          "datenvolumen": "100 GB"
-        }
-      },
-      {
-        "offer_id": "offer_005",
-        "active": true,
-        "provider": "Vodavon",
-        "product_type": "mobilfunk",
-        "name": "Vodafone GigaMobil L",
-        "short_description": "Allnet Flat",
-        "price_amount": 44.99,
-        "price_period": "month",
-        "notes": "Ab dem 25. Monat 59.99",
-        "attributes": {
-          "datenvolumen": "280 GB"
-        }
-      },
-      {
-        "offer_id": "offer_006",
-        "active": true,
-        "provider": "Vodavon",
-        "product_type": "mobilfunk",
-        "name": "Vodafone GigaMobil XL",
-        "short_description": "Allnet Flat",
-        "price_amount": 59.99,
-        "price_period": "month",
-        "notes": "Ab dem 25. Monat 79.99",
-        "attributes": {
-          "datenvolumen": "unlimited"
-        }
       }
     ]
   },
-  "skipped_rows": []
+  "skipped_rows": [
+    {
+      "rowIndex": 4,
+      "offer_id": "offer_003",
+      "reason": "inactive",
+      "missingRequiredValues": []
+    },
+    {
+      "rowIndex": 5,
+      "offer_id": "offer_004",
+      "reason": "inactive",
+      "missingRequiredValues": []
+    },
+    {
+      "rowIndex": 6,
+      "offer_id": "offer_005",
+      "reason": "inactive",
+      "missingRequiredValues": []
+    },
+    {
+      "rowIndex": 7,
+      "offer_id": "offer_006",
+      "reason": "inactive",
+      "missingRequiredValues": []
+    }
+  ]
 }
