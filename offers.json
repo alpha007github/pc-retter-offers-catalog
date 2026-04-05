@@ -100,5 +100,16 @@
       }
     ]
   },
-  "skipped_rows": []
+  "skipped_rows": [
+    {
+      "rowIndex": 9,
+      "offer_id": "offer_008",
+      "reason": "missing_required_values",
+      "missingRequiredValues": [
+        "provider",
+        "product_type",
+        "name"
+      ]
+    }
+  ]
 }
