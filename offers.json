@@ -83,32 +83,6 @@
         "attributes": {
           "datenvolumen": "unlimited"
         }
-      },
-      {
-        "offer_id": "offer_007",
-        "active": true,
-        "provider": "Vodavon",
-        "product_type": "mobilfunk",
-        "name": "Vodafone GigaMobil Young XS",
-        "short_description": "Allnet Flat",
-        "price_amount": 14.99,
-        "price_period": "month",
-        "notes": "Ab dem 25. Monat 19.99",
-        "attributes": {
-          "datenvolumen": "20 GB"
-        }
-      },
-      {
-        "offer_id": "offer_008",
-        "active": true,
-        "provider": "1 und 1",
-        "product_type": "DSL",
-        "name": "Günstig zuhause",
-        "short_description": "DSL",
-        "price_amount": null,
-        "price_period": null,
-        "notes": null,
-        "attributes": {}
       }
     ]
   },
